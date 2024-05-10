@@ -1,0 +1,7 @@
+{
+  "name": "Galway App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
